@@ -1,2 +1,2 @@
 # TechVibe
-this si a beginner  e-commerce website
+this is a beginner  e-commerce website
